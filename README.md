@@ -1,2 +1,6 @@
 # Esther
-portafolio de evidencias programacion web
+Portafolio de Evidencias Programacion Web
+
+Listas de Practicas
+
+Esther del Consuelo Oyarvide Padron
