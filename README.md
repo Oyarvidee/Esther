@@ -9,5 +9,5 @@ Esther del Consuelo Oyarvide Padron
 
 <a href = "curriculo.html"> practica 2 </a>
 
-<a href = "HORARIO.html"> practica 3 </a>
+<a href = "HORARIO.HTML"> practica 3 </a>
 
